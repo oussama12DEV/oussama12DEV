@@ -22,7 +22,7 @@ My focus revolves around Java backend development and Angular frontend. I pride 
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,python,django,cpp,javascript,typescript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=java,jee,spring,angular,python,django,cpp,javascript,typescript,html,css" /><br>
       <img src="https://skillicons.dev/icons?i=cs,react,azure,vue,tailwind,bootstrap,sklearn,tensorflow,dart,flutter,androidstudio,idea"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,php,dotnet,git,docker,bash,mysql,postgres,mongodb,nodejs,npm,kafka" /><br>
 </div>
